@@ -1,3 +1,23 @@
+
+
+- [markdown-it](#markdown-it)
+	- [Install](#install)
+	- [Usage examples](#usage-examples)
+		- [Simple](#simple)
+		- [Init with presets and options](#init-with-presets-and-options)
+		- [Plugins load](#plugins-load)
+		- [Syntax highlighting](#syntax-highlighting)
+	- [API](#api)
+	- [Syntax extensions](#syntax-extensions)
+		- [Manage rules](#manage-rules)
+	- [Benchmark](#benchmark)
+	- [Authors](#authors)
+	- [References / Thanks](#references--thanks)
+	- [License](#license)
+
+> **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+
 # markdown-it
 
 [![Build Status](https://img.shields.io/travis/markdown-it/markdown-it/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it)

@@ -40,7 +40,8 @@ module.exports = {
         'smartquotes',
         'references',
         'abbr2',
-        'footnote_tail'
+        'footnote_tail',
+        'source_references'
       ]
     },
 

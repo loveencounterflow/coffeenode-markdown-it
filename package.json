@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it",
+  "name": "coffeenode-markdown-it",
   "version": "4.1.0",
   "description": "Markdown-it - modern pluggable markdown parser.",
   "keywords": [
@@ -9,8 +9,8 @@
     "markdown-it",
     "markdown-it-plugin"
   ],
-  "homepage": "https://github.com/markdown-it/markdown-it",
-  "repository": "markdown-it/markdown-it",
+  "homepage": "https://github.com/loveencounterflow/coffeenode-markdown-it",
+  "repository": "loveencounterflow/coffeenode-markdown-it",
   "license": "MIT",
   "main": "index.js",
   "bin": { "markdown-it": "bin/markdown-it.js" },
