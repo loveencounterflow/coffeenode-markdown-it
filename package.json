@@ -1,6 +1,6 @@
 {
   "name": "coffeenode-markdown-it",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "Markdown-it - modern pluggable markdown parser.",
   "keywords": [
     "markdown",
@@ -13,7 +13,9 @@
   "repository": "loveencounterflow/coffeenode-markdown-it",
   "license": "MIT",
   "main": "index.js",
-  "bin": { "markdown-it": "bin/markdown-it.js" },
+  "bin": {
+    "markdown-it": "bin/markdown-it.js"
+  },
   "scripts": {
     "test": "make test"
   },
